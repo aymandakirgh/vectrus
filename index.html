@@ -6,7 +6,10 @@
     <title>Vectrus</title>
     <meta name="description" content="Vectrus is an integrated energy group: upstream, markets, systems, and the ventures after them. A cinematic concept study." />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <link href="https://db.onlinewebfonts.com/c/95cecf452d3208890088a5b4c19c7ecf?family=Helvetica+Neue+ME" rel="stylesheet">
+    <!-- Spec-mandated font host. No SRI on purpose: the CSS is UA-dependent, so a
+         pinned hash would break font loading the day the host re-encodes it.
+         Fetched anonymously with no referrer instead. -->
+    <link href="https://db.onlinewebfonts.com/c/95cecf452d3208890088a5b4c19c7ecf?family=Helvetica+Neue+ME" rel="stylesheet" crossorigin="anonymous" referrerpolicy="no-referrer">
   </head>
   <body>
     <div id="root"></div>
