@@ -1,7 +1,7 @@
 # PROGRESS — vectrus-portfolio
 
-**Resume here:** M7
-**Updated:** 2026-08-27 18:43
+**Resume here:** all milestones shipped
+**Updated:** 2026-08-27 18:45
 
 Source of truth for this build. A fresh session reads THIS FILE and continues
 from the first unchecked milestone. It never restarts from scratch, and never
@@ -39,7 +39,7 @@ re-derives the plan from the original prompt.
   - Verify: `npm run typecheck && npm test`
   - Notes:
 
-- [ ] **M7 — Deploy: Vercel team testin, prod URL live, favicon+logo verified on deployment**
+- [x] **M7 — Deploy: Vercel team testin, prod URL live, favicon+logo verified on deployment**
   - Acceptance: TODO — state it as a command that exits 0
   - Verify: `npm run typecheck && npm test`
   - Notes:
