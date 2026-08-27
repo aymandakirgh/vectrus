@@ -1,7 +1,7 @@
 # PROGRESS — vectrus-portfolio
 
-**Resume here:** M6
-**Updated:** 2026-08-27 18:42
+**Resume here:** M7
+**Updated:** 2026-08-27 18:43
 
 Source of truth for this build. A fresh session reads THIS FILE and continues
 from the first unchecked milestone. It never restarts from scratch, and never
@@ -34,7 +34,7 @@ re-derives the plan from the original prompt.
   - Verify: `npm run typecheck && npm test`
   - Notes:
 
-- [ ] **M6 — Repo: git init, verified author, push to GitHub aymandakirgh/vectrus**
+- [x] **M6 — Repo: git init, verified author, push to GitHub aymandakirgh/vectrus**
   - Acceptance: TODO — state it as a command that exits 0
   - Verify: `npm run typecheck && npm test`
   - Notes:
